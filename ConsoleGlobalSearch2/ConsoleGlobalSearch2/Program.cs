@@ -3,7 +3,7 @@
 /*
  *  取得特定元素存在的 "注標"
 */
-namespace ConsoleConsoleGlobalSearch2
+namespace ConsoleGlobalSearch2
 {
     class Program
     {
