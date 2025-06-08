@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace ConsoleGlobalSearch
+namespace ConsoleGlobalSearch1
 {
     class Program
     {
